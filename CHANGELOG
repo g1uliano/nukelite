@@ -1,0 +1,26 @@
+CHANGELOG
+-----------
+
+Nuke Lite 1.1.3
+- Adicionado rename.php na pasta extras do Nuke Lite, este script renomeia os prefixo de nuke_ para o que você desejar;
+- Corrigido o bug do /admin/modules/blocks.php;
+- Corrigido o Bug dos Arquivos da pasta /modules/;
+- Revisado alguns Arquivos que estariam com falhas de segurança em outras versões do Php-Nuke e que poderiam afetar esta.
+
+Nuke Lite 1.1.2
+
+- Bug's Corrigidos.
+
+Nuke Lite 1.1.1b [Não Liberado - Multiplos Bug's]
+
+- Deletado arquivos da pasta include;
+- Retirado Arquivos Desnecessários;
+- Bug's Corrigidos.
+
+
+Nuke Lite 1.1
+
+- Tive a Idéia de Fazer este CHANGELOG =) ;
+- Adicionei o Instalador Web do Php-Nuke (desenvolvido por XPK_FENIX & Aleagi) ao Nuke Lite;
+- Corrigida a incompatibilidade com o sistema de usuários;
+- Apaguei alguns arquivos desnecessários e corrigi um bug.

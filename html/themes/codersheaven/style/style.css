@@ -1,0 +1,41 @@
+FONT		{FONT-FAMILY: Verdana,Helvetica; FONT-SIZE: 12px}
+TD		{FONT-FAMILY: Verdana,Helvetica; FONT-SIZE: 12px}
+BODY		{FONT-FAMILY: Verdana,Helvetica; FONT-SIZE: 12px; color: #6a6a6a}
+P		{FONT-FAMILY: Verdana,Helvetica; FONT-SIZE: 12px}
+DIV		{FONT-FAMILY: Verdana,Helvetica; FONT-SIZE: 12px}
+INPUT		{FONT-FAMILY: Verdana,Helvetica; FONT-SIZE: 12px}
+TEXTAREA	{FONT-FAMILY: Verdana,Helvetica; FONT-SIZE: 12px}
+FORM 		{FONT-FAMILY: Verdana,Helvetica; FONT-SIZE: 12px}
+A:link          {BACKGROUND: none; COLOR: #2D487C; FONT-SIZE: 12px; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: none;}
+A:active        {BACKGROUND: none; COLOR: #2D487C; FONT-SIZE: 12px; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: none;}
+A:visited       {BACKGROUND: none; COLOR: #2D487C; FONT-SIZE: 12px; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: none;}
+A:hover         {BACKGROUND: none; COLOR: #363636; FONT-SIZE: 12px; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: underline;}
+.title 		{BACKGROUND: none; COLOR: #2D487C; FONT-SIZE: 13px; FONT-WEIGHT: bold; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: none}
+.content 	{BACKGROUND: none; COLOR: #6A6A6A; FONT-SIZE: 12px; FONT-FAMILY: Verdana, Helvetica}
+.storytitle 	{BACKGROUND: none; COLOR: #363636; FONT-SIZE: 14px; FONT-WEIGHT: bold; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: none}
+.storycat	{BACKGROUND: none; COLOR: #6A6A6A; FONT-SIZE: 13px; FONT-WEIGHT: bold; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: underline}
+.boxtitle 	{BACKGROUND: none; COLOR: #2D487C; FONT-SIZE: 12px; FONT-WEIGHT: bold; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: none}
+.boxcontent 	{BACKGROUND: none; COLOR: #6A6A6A; FONT-SIZE: 12px; FONT-FAMILY: Verdana, Helvetica}
+.option 	{BACKGROUND: none; COLOR: #6A6A6A; FONT-SIZE: 13px; FONT-WEIGHT: bold; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: none}
+.tiny		{BACKGROUND: none; COLOR: #6A6A6A; FONT-SIZE: 10px; FONT-WEIGHT: normal; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: none}
+.footmsg        {BACKGROUND: none; COLOR: #6A6A6A; FONT-SIZE: 8px; FONT-WEIGHT: normal; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: none}
+.footmsg_l	{BACKGROUND: none; COLOR: #6A6A6A; FONT-SIZE: 8px; FONT-WEIGHT: normal; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: underline}
+.box		{FONT-FAMILY: Verdana,Helvetica; FONT-SIZE: 12px; border: 1px solid #000000; background-color: #FFFFFF}
+
+.logo 				{COLOR: #FFFFFF; FONT-SIZE: 16px; FONT-WEIGHT: normal; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: none;}
+.logo:link          {COLOR: #FFFFFF; FONT-SIZE: 16px; FONT-WEIGHT: normal; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: none;}
+.logo:active        {COLOR: #FFFFFF; FONT-SIZE: 16px; FONT-WEIGHT: normal; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: none;}
+.logo:visited       {COLOR: #FFFFFF; FONT-SIZE: 16px; FONT-WEIGHT: normal; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: none;}
+.logo:hover         {COLOR: #FFFFFF; FONT-SIZE: 16px; FONT-WEIGHT: normal; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: none;}
+
+.newstitle 				 {COLOR: #597DC1; FONT-SIZE: 16px; FONT-WEIGHT: bold; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: none;}
+.newstitle:link          {COLOR: #597DC1; FONT-SIZE: 16px; FONT-WEIGHT: bold; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: none;}
+.newstitle:active        {COLOR: #597DC1; FONT-SIZE: 16px; FONT-WEIGHT: bold; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: none;}
+.newstitle:visited       {COLOR: #597DC1; FONT-SIZE: 16px; FONT-WEIGHT: bold; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: none;}
+.newstitle:hover         {COLOR: #597DC1; FONT-SIZE: 16px; FONT-WEIGHT: bold; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: none;}
+
+.footer 				 {COLOR: #2D487C; FONT-SIZE: 11px; FONT-WEIGHT: normal; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: none;}
+.footer:link          {COLOR: #2D487C; FONT-SIZE: 11px; FONT-WEIGHT: normal; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: none;}
+.footer:active        {COLOR: #2D487C; FONT-SIZE: 11px; FONT-WEIGHT: normal; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: none;}
+.footer:visited       {COLOR: #2D487C; FONT-SIZE: 11px; FONT-WEIGHT: normal; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: none;}
+.footer:hover         {COLOR: #2D487C; FONT-SIZE: 11px; FONT-WEIGHT: normal; FONT-FAMILY: Verdana, Helvetica; TEXT-DECORATION: none;}

@@ -1,0 +1,34 @@
+Nuke Lite 1.1.3
+---------------
+
+Esta é uma versão mais enxuta do Php-Nuke que vem apenas com os módulos básicos deste sistema,
+e não vem com suporte a usuários o que na minha opnião é uma inutilidade deste sistema, principalmente
+por que muitos usuários se quer usam isto, ou acham isto mais uma complicação.
+
+Esta nova versão vem com várias correções e com menos módulos, o suporte a outras linguas que não sejam
+a brasileira foi retirado, para garantir um menor tamanho nesta versão; porém o nome dos arquivos de 
+linguagem continuam os mesmos, garantindo a compatibilidade com módulos da versão normal do Php-Nuke.
+
+- Como Instalar?
+
+Envie todos os arquivos da pasta html para o seu servidor, e depois acesse a url do seu site:
+Ex: http://www.seusite.com.br/html/install/
+OBS: Não esqueça de dar permissão 666 ao arquivo config.php
+e de deletar a pasta INSTALL quando terminar a instalação.
+
+Após instalar um módulo do Php-Nuke no Nuke Lite e o mesmo não rodar corretamente, tente corrigir
+esta falha executando o script rename.php que esta na pasta extras.Ele renomeia as tabelas do Nuke Lite
+que estão com o prefixo nuke_ para o que você usa no Nuke Lite, corrigindo assim a incompatibilidade exis-
+tente entre os sistemas.Caso o problema persista poste a falha no fórum do projeto, especificando qual o
+módulo está com problemas.
+
+
+Sites do Projeto:
+Site Oficial: http://www.nukelite.cjb.net
+Suporte: http://www.nukelite.xpk.com.br/forum
+
+Giuliano Cardoso
+-----------------
+Desenvolvedor e Idealisador do Nuke Lite.
+
+PS: Estou em busca de Beta Testers e Desenvolvedores.
